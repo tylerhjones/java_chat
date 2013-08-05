@@ -1,0 +1,7 @@
+To test the chat program the user must compile all the files in the zip.
+Next run the Server with "java MultiServer"
+Then Start up the client with "java Chat"
+
+The project was built over many hours at least 20+
+
+While working on the project I learned how to thread connections, handle clients constantly connecting and disconnecting, and how to handle communications between multiple threaded clients.
